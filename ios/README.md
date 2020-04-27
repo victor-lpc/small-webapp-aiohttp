@@ -1,3 +1,3 @@
 # small-webapp-aiohttp
-app dir
+app contents dir
 
